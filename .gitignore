@@ -1,0 +1,8 @@
+# Binary output
+bin/
+
+# IDE Stuff
+.classpath
+.project
+.cache-main
+.settings/
